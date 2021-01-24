@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎来到扫地僧backtrader中国官网！我们开发的backtrader相关课程、教程和资讯如下。
+
+### 视频课程
+[扫地僧Backtrader给力教程：量化回测核心篇（全集）](https://ke.qq.com/course/package/29579?tuin=a980d4cc)
 
 You can use the [editor on GitHub](https://github.com/quantcn/quant/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
