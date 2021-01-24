@@ -1,10 +1,10 @@
 ---
-title: pafatbn forever!
+title: 扫地僧量化框架学习官网!
 layout: template
 filename: index
 --- 
 
-# patrickandfrantonarethebestninjas
+# 扫地僧
 
 ## Created by [Patrick Huston](http://www.patrickhuston.com/) and [Franton Lin](frantonlin.com)
 
