@@ -3,6 +3,12 @@
 ### 视频课程
 [扫地僧Backtrader给力教程：量化回测核心篇（全集）](https://ke.qq.com/course/package/29579?tuin=a980d4cc)
 
+
+### 纸版教程
+《扫地僧Backtrader给力教程系列一：股票量化回测核心篇》
+-[教程购买方式](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-23047916382.3.75771ec7N5YzQu&id=632262273672)
+-[教程介绍](https://zhuanlan.zhihu.com/p/273377912)
+
 You can use the [editor on GitHub](https://github.com/quantcn/quant/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
