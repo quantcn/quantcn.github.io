@@ -31,7 +31,8 @@ filename: qlib
 
 ## Qlib答疑交流QQ群
 QQ群号：1125384417
-
+<br/>QQ扫码加入：
+<br/>![avatar](QQ群二维码.png)
 
 ## Qlib微信公众号
 微信公众号：optMaster
