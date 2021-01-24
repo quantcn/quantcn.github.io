@@ -16,7 +16,7 @@ filename: backtrader
 <br/>![avatar](读者评价.png "读者评价")
 
 ## <u>Backtrader样书和源码</u>
-[《扫地僧Backtrader给力教程系列一：股票量化回测核心篇》样书和源码下载](样书和源码1.486.zip)
+[《扫地僧Backtrader给力教程系列一：股票量化回测核心篇》样书和源码下载](https://github.com/quantcn/quantcn.github.io/raw/master/%E6%A0%B7%E4%B9%A6%E5%92%8C%E6%BA%90%E7%A0%811.486.zip)
 阅读样书，体验backtrader功能
 
 ## <u>Backtrader专栏</u>
