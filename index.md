@@ -4,13 +4,9 @@ layout: template
 filename: index
 --- 
 
-# 扫地僧
 
-## 
+# 欢迎来到扫地僧开源量化框架学习官网！
 
-#### What is patrickandfrantonarethebestninjas?
-This project aims to demonstrate without a doubt why Patrick and Franton are the best ninjas. 
+## 本网站汇聚由扫地僧开发的各种开源量化框架（Backtrader、Qlib等）的相关课程、教程和资讯。
 
-#### How can I use patrickandfrantonarethebestninjas?
-Come to office hours and git tutorials. Baked goods and cash are also accepted.
-
+## 扫地僧出品，必属精品！
