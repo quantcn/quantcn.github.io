@@ -4,6 +4,33 @@ layout: template
 filename: qlib
 --- 
 
-# Qlib视频课程
+微软研究院最新发布的融合了各种机器学习算法的人工智能量化投资平台Qlib，可以用来进行量化机器学习和交易策略回测。
+从应用层来看，它主要包括数据、机器学习和策略回测松耦合的三大块（每块可以独立），扫地僧开发了相关课程如下。
 
-We truly started from nothing. 
+
+
+
+### Qlib视频课程
+[面向人工智能的AI量化平台Qlib技术教程](https://ke.qq.com/course/3139956?tuin=a980d4cc)
+视频课程详细介绍Qlib使用方法。包括：
+1 如何下载和检索行情数据
+2 如何利用行情数据，使用各种机器学习方法进行模型训练和预测
+3 如何基于行情数据和预测结果编制交易策略进行回测
+4 如何进行预测与回测结果评价
+5 如何定义因子库
+6 实验工作流裁剪
+7 提供源码
+
+可以将Qlib的机器学习和另一个更加成熟的基于python的开源量化回测框架backtrader一起使用。
+
+### Qlib专栏
+[扫地僧Qlib知乎专栏](https://www.zhihu.com/people/optmaster/columns)
+<br/>不定期更新扩展内容
+
+### Qlib答疑交流QQ群
+QQ群号：1125384417
+
+
+### Qlib微信公众号
+微信公众号：optMaster
+<br/>不定期更新扩展内容
