@@ -13,6 +13,7 @@ filename: backtrader
 《扫地僧Backtrader给力教程系列一：股票量化回测核心篇》
 <br/>[教程购买方式](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-23047916382.3.75771ec7N5YzQu&id=632262273672)
 <br/>[教程介绍](https://zhuanlan.zhihu.com/p/273377912)
+<br/>![avatar](读者评价.png "读者评价")
 
 ## Backtrader专栏
 [扫地僧backtrader知乎专栏](https://www.zhihu.com/column/c_1282044751274045440)
