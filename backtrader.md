@@ -20,6 +20,8 @@ filename: backtrader
 
 ## Backtrader答疑交流QQ群
 QQ群号：1125384417
+<br/>QQ扫码加入：
+<br/>![avatar](QQ群二维码.png)
 
 ## Backtrader样书和源码下载（无需密码）
 进QQ群1125384417，在群文件下载样书电子版,解压无需密码。按样书操作即可入门，样书目录反映了全书内容，绝非文档翻译。
