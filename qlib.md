@@ -26,7 +26,7 @@ filename: qlib
 可以将Qlib的机器学习和另一个更加成熟的基于python的开源量化回测框架backtrader一起使用。
 
 ### Qlib专栏
-[扫地僧Qlib知乎专栏](https://www.zhihu.com/people/optmaster/columns)
+[扫地僧Qlib知乎专栏](https://www.zhihu.com/column/c_1319049356155535360)
 <br/>不定期更新扩展内容
 
 ### Qlib答疑交流QQ群
