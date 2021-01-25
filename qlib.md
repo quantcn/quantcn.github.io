@@ -10,7 +10,8 @@ filename: qlib
 
 
 
-## <u>Qlib视频课程</u>
+## Qlib视频课程
+---
 [面向人工智能的AI量化平台Qlib技术教程](https://ke.qq.com/course/3139956?tuin=a980d4cc)
 <br/>视频课程详细介绍Qlib使用方法。包括：
 ```
@@ -26,15 +27,18 @@ filename: qlib
 可以将Qlib的机器学习和另一个更加成熟的基于python的开源量化回测框架backtrader一起使用。
 
 ## <u>Qlib专栏</u>
+---
 [扫地僧Qlib知乎专栏](https://www.zhihu.com/column/c_1319049356155535360)
 <br/>不定期更新扩展内容
 
 ## <u>Qlib答疑交流QQ群</u>
+---
 QQ群号：1125384417
 <br/>QQ扫码加入：
 <br/>![avatar](QQ群二维码.png)
 
 ## <u>Qlib微信公众号</u>
+---
 微信公众号：optMaster
 <br/>![avatar](微信公众号二维码.jpg)
 <br/>不定期更新扩展内容
