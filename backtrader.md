@@ -34,7 +34,7 @@ QQ群号：1125384417
 <br/>![avatar](QQ群二维码.png)
 
 
-## Backtrader微信公众号
+## &rArr;Backtrader微信公众号
 ---
 微信公众号：optMaster
 <br/>微信扫码订阅：
