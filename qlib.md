@@ -10,7 +10,7 @@ filename: qlib
 
 
 
-## Qlib视频课程
+## &rArr;Qlib视频课程
 ---
 [面向人工智能的AI量化平台Qlib技术教程](https://ke.qq.com/course/3139956?tuin=a980d4cc)
 <br/>视频课程详细介绍Qlib使用方法。包括：
